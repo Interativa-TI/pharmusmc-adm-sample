@@ -1,2 +1,2 @@
 # pharmusmc-adm-sample
-Repositório de exemplos da utilização da api e análise de planilhas geradas na administração
+Repositório de exemplos de utilização da api e análise de planilhas geradas na administração
